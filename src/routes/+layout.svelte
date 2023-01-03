@@ -11,8 +11,6 @@
 </main>
 
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@700&display=swap');
-
   nav {
     display: flex;
     margin: 0;
@@ -23,7 +21,6 @@
     padding: 0 2rem;
   }
   nav * {
-    font-family: 'IBM Plex Sans', sans-serif;
     color: white;
     text-decoration: none;
   }
