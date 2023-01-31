@@ -1,14 +1,13 @@
-<nav>
-  <p>Welcome</p>
-  <ul>
-    <li><a href='/'>Home</a></li>
-    <li><a href='shop'>Shop</a></li>
-    <li><a href='pictures'>Pictures</a></li>
-  </ul>
-</nav>
-<main>
-  <slot />
-</main>
+<header>
+  <nav>
+    <p>Welcome</p>
+    <ul>
+      <li><a href='/'>Home</a></li>
+      <li><a href='shop'>Shop</a></li>
+      <li><a href='pictures'>Pictures</a></li>
+    </ul>
+  </nav>
+</header>
 
 <style>
   nav {
